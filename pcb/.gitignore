@@ -1,0 +1,8 @@
+*-cache
+beartag-backups/
+*.lock
+*.step
+*.wrl
+*.lck
+*.3dshapes/
+*.bak
